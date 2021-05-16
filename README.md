@@ -3,8 +3,9 @@ I refactored the existing html and CSS code to follow accessibilty standards and
 
 I used the following Acceptance Criteria in order to meet my clients expectations:
 
-https://medina2021.github.io/First-Homework/
+<p align="center">https://medina2021.github.io/First-Homework/</p>
 
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/80498269/118386982-44fa2000-b5d0-11eb-80c4-6762b6ad83a9.png)
 
 ## Acceptance Criteria
 
