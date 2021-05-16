@@ -2,6 +2,10 @@
 I refactored the existing html and CSS code to follow accessibilty standards and make it optimal for search engines. 
 
 I used the following Acceptance Criteria in order to meet my clients expectations:
+
+https://medina2021.github.io/First-Homework/
+
+
 ## Acceptance Criteria
 
 ```
